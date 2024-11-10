@@ -1,0 +1,19 @@
+# Referências Bibliográficas
+
+[Pontomais] Pontomais Tecnologia (2023). Solução completa e digital para sua gestão de controle de ponto. Link: <https://pontomais.com.br/>. Acesso: 31 de outubro de 2024.
+
+[Digital] Digital Software (2024). Ponto Fácil. Link: <https://www.digitalsof.com/pontofacil/pontodigital.html>. Acesso: 31 de outubro de 2024.
+
+[Oitchau] Oitchau (2023). Controle de Ponto em Tempo Real. Link: <https://www.oitchau.com.br/>. Acesso: 31 de outubro de 2024.
+
+[Sunshine] Eternal Sunshine Of The Mind (2013). The Spiral Model. Link: <https://eternalsunshineoftheismind.wordpress.com/2013/03/06/the-spiral-model-4/>. Acesso: 6 de novembro de 2024.
+
+[Paul] Johan Paul (2008). Quantitative Approach for Lightweight Agile Process Assessment. Acesso: 6 de novembro de 2024.
+
+---
+
+## Histórico de Versão
+
+Data       | Versão | Descrição                                                                                       | Autor         | Revisores
+---------- | ------ | ----------------------------------------------------------------------------------------------- | ------------- | -----------------------
+09/11/2024 | 1.0    | **Adição de Referências:** Pesquisa de Mercado + Processos de Engenharia de Software | Mateus Vieira | João Lucas, Pedro Gondim
