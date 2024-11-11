@@ -1,0 +1,46 @@
+site_name: Documentação - Pontual
+repo_url: https://github.com/mdsreq-fga-unb/2024.2-T01-Pontual
+
+nav:
+  - Início: index.md
+  - Visão de Produto e Projeto:
+      - Cenário Atual do Cliente e Negócio: base/scenario.md
+      - Solução Proposta: base/solution.md
+      - Estratégias de Engenharia de Software: base/strategy.md
+      - Cronograma e Entregas: base/schedule.md
+      - Interação entre Equipe e Cliente: base/interaction.md
+      - Lições Aprendidas: base/learning.md
+      - Referências Bibliográficas: base/references.md
+  - Entregas por Unidade:
+      - Unidade 1: delivery/unit-1.md
+
+extra_css:
+  - assets/styles.css
+
+theme:
+  name: material
+  language: pt-BR
+
+  icon:
+    repo: fontawesome/brands/github
+
+  logo: assets/usa.png
+  favicon: assets/usa.png
+
+  palette:
+    - scheme: default
+      primary: red
+      accent: pink
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Dark mode
+
+    - scheme: slate
+      primary: red
+      accent: pink
+      toggle:
+        icon: material/toggle-switch
+        name: Light mode
+
+  features:
+    - content.code.copy
