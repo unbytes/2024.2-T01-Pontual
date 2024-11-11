@@ -11,6 +11,8 @@ nav:
       - Interação entre Equipe e Cliente: base/interaction.md
       - Lições Aprendidas: base/learning.md
       - Referências Bibliográficas: base/references.md
+  - Entregas por Unidade:
+      - Unidade 1: delivery/unit-1.md
 
 extra_css:
   - assets/styles.css
