@@ -4,6 +4,8 @@
 
 ## Projeto
 
+TESTE. 
+
 O projeto tem como objetivo desenvolver um sistema de ponto eletrônico digital para uma filial da rede de escolas de idiomas CCAA. A iniciativa visa modernizar o processo atual de marcação de ponto, que é manual e propenso a erros, substituindo-o por uma solução que digitaliza a marcação de frequência dos funcionários. A implementação deste sistema permitirá um controle mais preciso e ágil do registro de horas, diminuindo o risco de inconsistências e aumentando a eficiência na gestão de dados trabalhistas.
 
 ## Requisitos de Software
