@@ -48,4 +48,5 @@ O processo de validação será realizado em três etapas principais, acompanhan
 
 Data       | Versão | Descrição                                                  | Autor                                   | Revisores
 ---------- | ------ | ---------------------------------------------------------- | --------------------------------------- | ---------------------------
-09/11/2024 | 1.0    | Definição da composição da equipe e métodos de comunicação | Mateus Vieira, João Lucas, Pedro Gondim | Caio Lamego, Daniela Alarcão
+09/11/2024 | 0.1    | Definição da composição da equipe e métodos de comunicação | Mateus Vieira, João Lucas, Pedro Gondim | Caio Lamego, Daniela Alarcão
+14/11/2024 | 0.2    | Correção do papel de "Analista de Requisitos" | Daniela Alarcão | 

@@ -64,10 +64,20 @@ A verificação de horas extras, faltas e atrasos não precisará mais ser feita
 
 ---
 
+## 📚 Referências
+
+- **Pontomais Tecnologia (2023). Solução completa e digital para sua gestão de controle de ponto.** <a href="https://pontomais.com.br/">Link</a>. Acesso em: 31 de outubro de 2024.
+
+- **Digital Software (2024). Ponto Fácil.** <a href="https://www.digitalsof.com/pontofacil/pontodigital.html">Link</a>. Acesso: 31 de outubro de 2024.
+
+- **Oitchau (2023). Controle de Ponto em Tempo Real.** <a href="https://www.oitchau.com.br/">Link</a>. Acesso: 31 de outubro de 2024.
+
 ## Histórico de Versão
 
 Data       | Versão | Descrição                                                | Autor                      | Revisores
 ---------- | ------ | -------------------------------------------------------- | -------------------------- | ----------------------------------------
 30/10/2024 | 0.1    | Breve descrição inicial do cenário atual e solução proposta | Mateus Vieira, João Lucas, Pedro Gondim | Caio Lamego, Daniela Alarcão
 31/10/2024 | 0.2    | Revisão para melhor detalhamento das características do projeto  | Mateus Vieira, Caio Lamego | João Lucas, Pedro Gondim, Daniela Alarcão
-06/11/2024 | 1.0    | Descrição geral da solução proposta | Mateus Vieira, Caio Lamego | João Lucas, Pedro Gondim, Daniela Alarcão
+06/11/2024 | 0.3    | Descrição geral da solução proposta | Mateus Vieira, Caio Lamego | João Lucas, Pedro Gondim, Daniela Alarcão
+14/11/2024 | 0.4    | Correção da definição do objetivo do produto | Daniela Alarcão | 
+14/11/2024 | 0.5    | Referências | Daniela Alarcão | 

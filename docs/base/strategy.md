@@ -42,9 +42,16 @@ Considerando a maior parte das características do projeto, foi selecionado o mo
 
 ---
 
+## 📚 Referências
+
+- **Eternal Sunshine Of The Mind (2013). The Spiral Model.** <a href="https://eternalsunshineoftheismind.wordpress.com/2013/03/06/the-spiral-model-4/">Link</a>. <br>Acesso em: 6 de novembro de 2024.
+
+- **Johan Paul (2008). Quantitative Approach for Lightweight Agile Process Assessment.** <br>Acesso em: 6 de novembro de 2024.
+
 ## Histórico de Versão
 
 Data       | Versão | Descrição                                                              | Autor                      | Revisores
 ---------- | ------ | ---------------------------------------------------------------------- | -------------------------- | ----------------------------------------
 06/11/2024 | 0.1    | Definição da abordagem, ciclo e processo junto ao quadro comparativo   | Mateus Vieira, Caio Lamego | João Lucas, Pedro Gondim, Daniela Alarcão
-09/11/2024 | 1.0    | Finalização da justificativa para o processo de Engenharia de Software | Mateus Vieira, João Lucas, Pedro Gondim | Caio Lamego, Daniela Alarcão
+09/11/2024 | 0.2    | Finalização da justificativa para o processo de Engenharia de Software | Mateus Vieira, João Lucas, Pedro Gondim | Caio Lamego, Daniela Alarcão
+14/11/2024 | 0.3    | Referências | Daniela Alarcão | 
