@@ -2,7 +2,7 @@
 
 **2.1 Objetivos do Produto**
 
-O objetivo do produto é digitalizar o ponto, modelo o qual otimiza o controle de frequência dos funcionários, facilita o acesso aos dados pela emissão de relatórios mensais e reduz os erros do cálculo de horas. Além disso, permite que as informações sejam armazenadas e acessadas em tempo real pelos diretores e superiores, sem a necessidade de consulta à papelada. Por fim, o produto foca em garantir a consistência da marcação do ponto, permitindo que os diretores e superiores enviem avisos aos funcionários para não esquecerem da marcação.
+O objetivo do produto é melhorar a eficiência e a precisão no controle da jornada de trabalho. Para isso, a equipe desenvolverá uma solução de digitalização do ponto, que otimiza o monitoramento de frequência, facilita a emissão de relatórios mensais e minimiza erros no cálculo das horas. Além disso, o sistema permite o armazenamento seguro e o acesso em tempo real das informações por diretores e supervisores, eliminando a necessidade de consultas manuais. O produto também assegura a consistência no registro de ponto, com a possibilidade de envio de lembretes aos funcionários para evitar esquecimentos na marcação.
 
 **2.2 Características da Solução**
 

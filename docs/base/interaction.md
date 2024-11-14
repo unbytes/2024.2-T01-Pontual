@@ -8,7 +8,7 @@
 | **Desenvolvedor Front-end** | Responsável pela interface do usuário, design e implementação das funcionalidades no lado do cliente. | João Lucas       | Caio Lamego       |
 | **Desenvolvedor Back-end**  | Implementa a lógica de negócios, integração com banco de dados e APIs.                                | Pedro Gondim     | Mateus Vieira     |
 | **Analista de QA**     | Garante a qualidade do projeto, executando testes de funcionalidade, performance e usabilidade.            | Caio Lamego      | Daniela Alarcão   |
-| **Analista de Requisitos** | Define os requisitos funcionais e não funcionais do sistema e garante que eles sejam atendidos.        | Daniela Alarcão  | João Lucas        |
+| **Analista de Requisitos** | Define os requisitos funcionais e não funcionais do sistema e garante que eles sejam atendidos.        | Daniela Alarcão  | Caio Lamego, João Lucas, Mateus Vieira, Pedro Gondim     |
 
 **5.2 Comunicação**
 
