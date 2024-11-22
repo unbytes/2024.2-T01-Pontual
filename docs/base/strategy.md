@@ -2,56 +2,59 @@
 
 **3.1 Estratégia Priorizada**
 
-- **Abordagem de Desenvolvimento de Software:** Híbrida
-- **Ciclo de Vida:** Iterativo
-- **Processo de Engenharia de Software:** Spiral
+- **Abordagem de Desenvolvimento de Software:** Ágil
+- **Ciclo de Vida:** Ágil
+- **Processo de Engenharia de Software:** RAD
 
 **3.2 Quadro Comparativo**
 
-| Características                          | Spiral                                                                                                                                          | Processo Unificado                                                                                                                                               |
-|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Abordagem Geral**                      | Iterativo e baseado em ciclos de prototipação e análise de risco.                                                                               | Iterativo, incremental com entregas constantes e revisões frequentes                                                                                             |
-| **Foco em Arquitetura**                  | Forte ênfase na identificação e mitigação de riscos arquiteturais logo no início dos ciclos, visando continuar ou interromper a construção.     | Destaque na definição de uma arquitetura sólida durante as fases iniciais, orientando todo o desenvolvimento.                                                    |
-| **Estrutura de Processos**               | Organizado em ciclos ou espirais, com fases de planejamento, análise de riscos, engenharia e avaliação.                                         | Dividido em quatro fases (Concepção, Elaboração, Construção, Transição), cada uma com atividades específicas e incrementais                                      |
-| **Flexibilidade de Requisitos**          | Os requisitos são tratados como fixos para cada ciclo de desenvolvimento.                                                                       | Permite ajustes nos requisitos a cada iteração, incorporando feedback contínuo.                                                                                  |
-| **Colaboração com Cliente**              | Colaboração frequente com o cliente para revisão dos protótipos e definição de novas direções.                                                  | Interação contínua com clientes e usuários, especialmente nas fases de Concepção e Transição.                                                                    |
-| **Complexidade de Processo**             | Processo formal e complexo devido à análise de riscos e prototipação em cada iteração.                                                          | Processo estruturado e formal, exigindo conhecimento detalhado das fases e fluxos de trabalho.                                                                   |
-| **Qualidade Técnica**                    | A qualidade técnica é garantida a cada ciclo por meio da análise de riscos e validação da arquitetura e funcionalidades.                        | Cada iteração produz um sistema funcional e testado, garantindo uma qualidade próxima ao produto final.                                                          |
-| **Práticas de Desenvolvimento**          | Uso de prototipação e análise de riscos para guiar o desenvolvimento, com foco menor em práticas ágeis e maior em validação incremental.        | Utiliza casos de uso e UML para modelagem, estruturando requisitos e implementações claramente, além de testes rigorosos para garantir a qualidade do produto.   |
-| **Adaptação à CCAA**                     | Ideal para projetos complexos de longo prazo que exigem mitigação de riscos e maior feedback dos clientes. Pode ser adaptado para menor escala. | Ideal para projetos que exigem uma arquitetura bem estruturada desde o começo, com ciclos iterativos e incrementais, permitindo ajustes e melhorias contínuas.   |
-| **Documentação**                         | Exige documentação clara e detalhada para cada fase e protótipo, incluindo plano de risco, justificativas e soluções.                           | Documentação detalhada, especialmente durante a Análise e Projeto, para suporte a equipes.                                                                       |
-| **Controle de Qualidade**                | Controle íntegro a partir da análise de risco em cada iteração do processo.                                                                     | Inclui testes rigorosos em cada iteração e monitoramento contínuo dos riscos, identificados e mitigados nas fases iniciais.                                      |
-| **Escalabilidade**                       | Adequado para projetos grandes em que a mitigação de riscos é crucial.                                                                          | A estrutura modular permite que o sistema cresça com novas funcionalidades em ciclos futuros.                                                                    |
-| **Suporte a Equipes de Desenvolvimento** | Suporte para equipes maiores e estruturadas com papéis bem definidos, com controle maior sobre os ciclos.                                       | Suporta equipes maiores com papéis bem definidos, exigindo controle detalhado sobre o progresso em cada fase do projeto, promovendo organização e eficiência.    |
+| Características                          | RAD (Rapid Application Development)                                                                                                            | ScrumXP                                                                                                                                                     |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Abordagem Geral**                      | Enfatiza o desenvolvimento rápido com prototipação e iterações curtas para atender rapidamente às mudanças nos requisitos do cliente.           | Baseado em metodologias ágeis, combina Scrum (gestão de projetos) com práticas de desenvolvimento do XP (Extreme Programming) para entrega contínua de valor. |
+| **Foco em Arquitetura**                  | Arquitetura inicial mínima; foca em desenvolver rapidamente protótipos funcionais para validação.                                                | Evolução contínua da arquitetura, com revisões frequentes e refatorações para manter a qualidade e a simplicidade.                                            |
+| **Estrutura de Processos**               | Dividido em quatro fases principais: planejamento de requisitos, design rápido, construção e implementação.                                     | Estruturado em Sprints (Scrum), complementado por práticas técnicas do XP, como programação em pares e TDD.                                                   |
+| **Flexibilidade de Requisitos**          | Alta flexibilidade; os requisitos podem mudar frequentemente com base no feedback dos protótipos e usuários.                                    | Os requisitos são priorizados e refinados continuamente, permitindo mudanças rápidas e bem gerenciadas.                                                       |
+| **Colaboração com Cliente**              | Envolvimento constante do cliente, que participa ativamente das validações dos protótipos e revisões.                                           | Colaboração próxima e contínua com o cliente ou Product Owner para alinhar expectativas e priorizar entregas.                                                 |
+| **Complexidade de Processo**             | Processo simples e flexível, focado em velocidade e adaptação, mas exige coordenação para evitar desorganização.                                | Processo altamente iterativo, mas com regras claras e rituais como planejamento, revisões e retrospectivas.                                                   |
+| **Qualidade Técnica**                    | Foco na entrega rápida; a qualidade técnica pode ser sacrificada em favor de prazos curtos.                                                     | Qualidade técnica é prioridade, com práticas como TDD, revisões de código e entrega incremental.                                                              |
+| **Práticas de Desenvolvimento**          | Prototipação rápida, desenvolvimento iterativo, e foco em entrega rápida com feedback frequente.                                                | Programação em pares, TDD, integração contínua, refatoração contínua e pequenas entregas frequentes.                                                           |
+| **Adaptação à CCAA**                     | Ideal para projetos de curto prazo e baixa complexidade, onde rapidez é mais importante que processos rígidos.                                  | Adequado para equipes de pequeno a médio porte e projetos dinâmicos, com alta prioridade em feedback rápido e entregas contínuas.                             |
+| **Documentação**                         | Simples documentação no processo; o foco está no protótipo funcional, mas na fase final há especificação técnica completa                                                      | Documentação mínima, concentrando-se em histórias de usuário e critérios de aceitação escritos no backlog.                                                    |
+| **Controle de Qualidade**                | A qualidade é validada principalmente por meio do feedback do cliente em protótipos e entregas rápidas.                                         | Qualidade garantida por práticas de desenvolvimento técnico rigorosas (XP) e revisões regulares.                                                              |
+| **Escalabilidade**                       | Limitado a equipes pequenas e projetos simples devido à informalidade e ao foco em entregas rápidas.                                            | Pode escalar com adaptações, mas é mais adequado para projetos ágeis com equipes pequenas a médias.                                                           |
+| **Suporte a Equipes de Desenvolvimento** | Suporte limitado para grandes equipes; promove colaboração intensa, mas exige comunicação direta e constante.                                   | Estrutura altamente colaborativa e organizada, promovendo comunicação eficaz e trabalho em equipe.                                                            |
 
 **3.3 Justificativa**
 
-Com base nas características do projeto e nas necessidades discutidas com a cliente, foi escolhida uma abordagem híbrida para o desenvolvimento pelos seguintes motivos:
+Com base nas características do projeto e nas necessidades discutidas com a cliente, foi escolhida uma abordagem baseada no **RAD (Rapid Application Development)** pelos seguintes motivos:  
 
-- **Definição Fixa dos Requisitos e Documentação Assertiva:**
-Após conversa com a cliente, ficou claro que todos os requisitos devem ser definidos como fixos desde o início. Há também a necessidade de uma documentação precisa das modificações realizadas ao longo do desenvolvimento, para que possam ser mapeadas entre as reuniões.
+- **Prototipação Iterativa para Validação Contínua:**  
+  A cliente expressou preferência por validar partes do sistema conforme ele é desenvolvido. O RAD facilita esse processo, entregando protótipos iterativos que podem ser avaliados e ajustados de maneira eficiente sem comprometer os requisitos principais.  
 
-- **Flexibilidade no Modelo de Comunicação e Feedbacks:**
-O modelo de comunicação entre a equipe e a cliente foi definido como flexível, sem a obrigatoriedade de reuniões pré-datadas ou um plano de entregas fixo. Em vez disso, será feito um acompanhamento contínuo das mudanças até a entrega final e única da aplicação.
+- **Documentação Objetiva:**  
+  Apesar do foco na entrega rápida, o projeto exige documentação que registre as mudanças e decisões tomadas durante o desenvolvimento. O RAD foca nos protótipos, portanto, indica exatamente a ideia de documentação mais simples e assertiva, equilibrando a produção com os registros.  
 
-- **Ciclo de Vida Iterativo:**
-Ao longo do projeto, decidiu-se que o ciclo de vida mais adequado para o desenvolvimento é o Iterativo, permitindo revisões e feedbacks em partes do projeto. Essa abordagem possibilita adaptações graduais, garantindo flexibilidade para alterações ao longo do trabalho e culminando em uma única entrega ao final.
+- **Flexibilidade no Cronograma de Comunicação:**  
+  Embora o modelo RAD seja iterativo, a comunicação foi definida como flexível, sem a obrigatoriedade de reuniões regulares. Esse alinhamento reforça o foco em ciclos rápidos de desenvolvimento com entregas intermediárias úteis para avaliação.  
 
-- **Seleção do Modelo Spiral:**
-Considerando a maior parte das características do projeto, foi selecionado o modelo Spiral. Esta escolha se justifica pelos requisitos fixos e pelo foco na produção de protótipos, que serão aprimorados com base nos feedbacks da cliente. Esse modelo permite que cada etapa seja executada com segurança, minimizando os riscos de interrupção.
+- **Simplicidade no Controle de Qualidade:**  
+  O modelo RAD prioriza o feedback do cliente em relação aos protótipos, garantindo que as entregas estejam alinhadas às expectativas sem introduzir processos complexos de validação.  
+
+**Observação:** O RAD tem a ideia dos requisitos variáveis de acordo com os feedbacks do cliente. Entretanto, para esse projeto vamos modificar essa característica, pois a cliente já tem uma ideia bem definida do que deseja. Portanto, os requisitos serão fixos e não sofrerão alterações durante o desenvolvimento.
 
 ---
 
 ## 📚 Referências
 
-- **Eternal Sunshine Of The Mind (2013). The Spiral Model.** <a href="https://eternalsunshineoftheismind.wordpress.com/2013/03/06/the-spiral-model-4/">Link</a>. <br>Acesso em: 6 de novembro de 2024.
+- **Team Kissflow (2024). What is Rapid Application Development (RAD)? An Ultimate Guide for 2024.** <a href="https://kissflow.com/application-development/rad/rapid-application-development/">Link</a>. Acesso em: 22 de novembro de 2024.
 
-- **Johan Paul (2008). Quantitative Approach for Lightweight Agile Process Assessment.** <br>Acesso em: 6 de novembro de 2024.
+- **Johan Paul (2008). Quantitative Approach for Lightweight Agile Process Assessment.** Acesso em: 6 de novembro de 2024.
 
 ## Histórico de Versão
 
-Data       | Versão | Descrição                                                              | Autor                      | Revisores
----------- | ------ | ---------------------------------------------------------------------- | -------------------------- | ----------------------------------------
-06/11/2024 | 0.1    | Definição da abordagem, ciclo e processo junto ao quadro comparativo   | Mateus Vieira, Caio Lamego | João Lucas, Pedro Gondim, Daniela Alarcão
-09/11/2024 | 0.2    | Finalização da justificativa para o processo de Engenharia de Software | Mateus Vieira, João Lucas, Pedro Gondim | Caio Lamego, Daniela Alarcão
-14/11/2024 | 0.3    | Referências | Daniela Alarcão | 
+Data       | Versão | Descrição                                                              | Autor                      | Revisores                                 |
+---------- | ------ | ---------------------------------------------------------------------- | -------------------------- | ----------------------------------------- |
+06/11/2024 | 0.1    | Definição da abordagem, ciclo e processo junto ao quadro comparativo   | Mateus Vieira, Caio Lamego | João Lucas, Pedro Gondim, Daniela Alarcão |
+09/11/2024 | 0.2    | Finalização da justificativa para o processo de Engenharia de Software | Mateus Vieira, João Lucas, Pedro Gondim | Caio Lamego, Daniela Alarcão |
+14/11/2024 | 0.3    | Referências | Daniela Alarcão | |
+22/11/2024 | 1.0    | Revisão da escolha de processo e concretização | Mateus Vieira | Caio Lamego |
